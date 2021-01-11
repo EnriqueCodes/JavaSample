@@ -1,0 +1,29 @@
+.notTraversed{
+
+    -fx-background-color:grey;
+
+    -fx-pref-width: 20;
+
+
+}
+.traversedButNotCursorLocation{
+
+    -fx-background-color: black;
+    -fx-pref-width: 20;
+
+}
+.currentCursorLocation{
+    -fx-background-color: red;
+    -fx-pref-width: 20;
+}
+.cursorLabel{
+    -fx-background-color: #1e7699;
+    -fx-font-size: 20;
+    -fx-text-fill: white;
+}
+
+.shakeLabel{
+    -fx-background-color: #9d0000;
+    -fx-font-size: 20;
+    -fx-text-fill: white;
+}
